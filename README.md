@@ -29,7 +29,7 @@
 
 # 📖 AWESOME BOOKS <a name="AWESOME BOOKS-site"></a>
 
-**Awesome books** This is a simple single app built with html,css and javascript, it eneables users to add books and delete books of their choice.
+**Awesome books** This is a simple single app built with HTML, CSS and javascript, it enables users to add books and delete books of their choice.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -77,7 +77,7 @@ In order to run this project you need:
 Clone this repository to your desired folder or download the Zip folder:
 
 ```
-git clone git@github.com:ntimanu/Awesome-books-project.git
+git clone git@github.com:ntimanu/Awesome-books-SE6.git
 ```
 
 - Navigate to the location of the folder in your machine:
